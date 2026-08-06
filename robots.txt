@@ -1,0 +1,4 @@
+# This is an unofficial concept redesign behind a shared password.
+# It should not be indexed.
+User-agent: *
+Disallow: /
